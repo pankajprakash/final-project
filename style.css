@@ -1,0 +1,169 @@
+body
+{
+    font-family: ;
+    overflow-x: hidden;
+    font-size: 14px;
+}
+h1 h2{
+    font-size: 24px;
+}
+
+.bg_image
+{
+    background-image: url(/home_images/home_header_image.png);
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+    height: 100vh;
+    width: 100%;
+}
+
+.header_portion
+{
+    padding-top: 25px;
+}
+
+.top_head
+{
+    width: 100%;
+    background-color: #fff;
+    /* height: auto;   */
+    
+}
+p{
+    padding: 32px;
+    margin-bottom: 0px !important;
+}
+
+.btn
+{
+    border-radius: 20px;
+    /* background-color:#ee5d2e; */
+    padding: 40px;
+    margin-top: 22px;
+    background: rgb(254,251,250);
+    background: linear-gradient(101deg, rgba(254,251,250,1) 0%, rgba(229,95,28,1) 0%, rgba(232,36,76,1) 100%);
+}
+.bt2
+{
+    background-color: #E91855;
+    color:#fff;
+}
+.bt3
+{
+    background-color:#F69541;
+    color: #fff;
+}
+
+.list
+{
+    margin: 5px 10px;
+}
+
+.header_body
+{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.first_para
+{
+    text-align: center;
+}
+
+.back_banner
+{
+    background-image: url(/home_images/Mission_and_vision_img.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* height: 400px; */
+
+}
+
+
+.safety_back
+{
+    background-image: url(/home_images/sefety.png);
+    height: 400px;
+}
+
+
+.md
+{
+    color: #E91855;
+}
+
+
+.content1
+{
+   
+    padding: 20px;
+
+    background-repeat: no-repeat;
+}
+
+
+.bgImg{
+    background-image: url("/home_images/My_child.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.back_img{
+    background-image: url("/home_images/My_child.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.bgImg1{
+    background-image: url("/home_images/me.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bgImg2{
+    background-image: url("/home_images/My_child.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.row1
+{
+    padding-top: 20px;
+}
+
+.content
+{
+    padding-top: 30px;
+} 
+
+
+
+
+
+
+.footer-back{
+    background-color: grey;
+    padding: 20px;
+}
+
+.footer-font{
+    text-align: center;
+    font-size: 12px;
+    border-right: 1px solid black;
+    padding: 10px 28px;
+    margin: 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+.footer-marg{
+    margin: 0px 20px;
+    color: black;
+}
+.foot-space{
+    padding: 20px 0px 0px 0px;
+    font-size: 12px;
+}
